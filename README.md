@@ -22,11 +22,11 @@ Actualmente estoy construyendo y documentando mi propio **Home-Lab** para aislar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📡 Conecta conmigo
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisnerjch@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_perfil)
 <!-- Descomenta y añade tu enlace si usas alguna de estas plataformas -->
 <!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/) -->
 <!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-111928?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/) -->
 
 ### 📊 Actividad
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LJ-CH21&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8)
