@@ -1,4 +1,4 @@
-# ⚡ Hola, soy Luisner
+# Hola, soy Luisner
 
 Estudiante de Ingeniería de Sistemas y Computación en la UTB | Apasionado por la Ciberseguridad y el Hacking Ético 🛡️
 
@@ -21,7 +21,7 @@ Actualmente estoy construyendo y documentando mi propio **Home-Lab** para aislar
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📡 Conecta conmigo
+### Conecta conmigo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisnerjch@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_perfil)
 <!-- Descomenta y añade tu enlace si usas alguna de estas plataformas -->
