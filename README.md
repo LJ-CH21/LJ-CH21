@@ -1,80 +1,32 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ebf4f5"  />
-</div>
+# ⚡ Hola, soy Luisner
 
-###
+Estudiante de Ingeniería de Sistemas y Computación en la UTB | Apasionado por la Ciberseguridad y el Hacking Ético 🛡️
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/74/19/34/741934ad3144966011fcc5108f7ce1c8.gif"  />
-</div>
+Actualmente estoy construyendo y documentando mi propio **Home-Lab** para aislar entornos, comprender vulnerabilidades a nivel de infraestructura y automatizar procesos defensivos/ofensivos.
 
-###
+### 🔬 ¿En qué estoy trabajando ahora en el Home-Lab?
+*   🏗️ **Arquitectura de Entornos:** Configuración de máquinas virtuales y redes aisladas para pruebas de penetración seguras.
+*   🐧 **Profundización en Linux:** Análisis de sistemas, escalada de privilegios y scripting para automatizar tareas de seguridad.
+*   📖 **Investigación Continua:** Aplicando conceptos de manuales técnicos, análisis de tráfico de red y explotación de vulnerabilidades en entornos controlados.
 
-<div align="center">
-  <a href="luisnerjch@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="@lcaicedo_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+### 🛠️ Arsenal Tecnológico y Entorno
 
-###
+**Lenguajes y Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h1 align="center"><Hello World/></h1>
+**Sistemas, Herramientas y Control de Versiones:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+### 📡 Conecta conmigo
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_perfil)
+<!-- Descomenta y añade tu enlace si usas alguna de estas plataformas -->
+<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/) -->
+<!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-111928?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/) -->
 
-<h3 align="left">🙋🏽 About Me...</h3>
-
-###
-
-<h6 align="left">- 👨🏽‍💻 Systems and Computer Engineering.<br>- 📚 UTB student.</h6>
-
-###
-
-<h3 align="left">🧰 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Luisnerjch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ebf4f5"  />
-</div>
-
-###
+### 📊 Actividad
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8)
